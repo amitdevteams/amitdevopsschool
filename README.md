@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate fullstack develoer</h3>
+### Hi! I'm Amit Kumar Thakur  👋🏼
 
-- 🔭 I’m currently working on [WizBrand](https://www.wizbrand.com/)
+I'm a **Full Stack Engineer** based in India ☀️, working at [WizBrand](https://www.wizbrand.com/). I'm a coding passionate focused on **Laravel**, specifically **Laravel** & **Django** **Angular**. Interested in Coding, tech **OpenSource** and **Youtube** ❤️ ❤️
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/kumarqpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kumarqpradeep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeep-kumar-15895b122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeep-kumar-15895b122/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/pradeepkumar8268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pradeepkumar8268/" height="30" width="40" /></a>
+Aside from coding I enjoy writing technical things [at my blog](#) ✍️
+
+Connect with youtube. [Youtube](#)
+
+<p>
+  <a href="https://twitter.com/AmitKum96687408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AmitKum96687408" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amitseobokaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amitseobokaro//" height="30" width="40" /></a>
+<a href="https://www.facebook.com/softwareengineersdevops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/softwareengineersdevops/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
